@@ -18,7 +18,7 @@ contract MyToken {
 
 // public variables here
 string public tokenname = "CRYPTO";
-string public tokenabbrv = "BTA";
+string public tokenabbrv = "CRTO";
 uint public totalsupply = 0;
 
 // mapping variable here
